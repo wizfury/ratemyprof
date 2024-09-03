@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Johnson's lectures are insightful and engaging. She makes complex topics easy to understand."
+      },
+      {
+        "professor": "Prof. Michael Lee",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Prof. Lee is very knowledgeable, but his lectures can be a bit fast-paced at times."
+      },
+      {
+        "professor": "Dr. Susan Carter",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Dr. Carter's lectures are informative, but her grading criteria can be unclear."
+      },
+      {
+        "professor": "Prof. David Thompson",
+        "subject": "History",
+        "stars": 5,
+        "review": "Prof. Thompson has a passion for history that makes his classes incredibly engaging."
+      },
+      {
+        "professor": "Dr. Jessica White",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Dr. White is very approachable and always willing to help with difficult concepts."
+      },
+      {
+        "professor": "Prof. John Davis",
+        "subject": "Physics",
+        "stars": 2,
+        "review": "Prof. Davis is knowledgeable, but his lectures are often hard to follow."
+      },
+      {
+        "professor": "Dr. Rachel Martin",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Dr. Martin's classes are thought-provoking and she encourages deep discussion."
+      },
+      {
+        "professor": "Prof. Robert Wilson",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Prof. Wilson's lectures are straightforward, but the exams are challenging."
+      },
+      {
+        "professor": "Dr. Olivia Brown",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Brown is engaging and makes the material relevant to current events."
+      },
+      {
+        "professor": "Prof. Charles Green",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Prof. Green's classes are intellectually stimulating and his lectures are always well-prepared."
+      },
+      {
+        "professor": "Dr. Lisa Taylor",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Dr. Taylor's passion for art is evident in her detailed and vivid lectures."
+      },
+      {
+        "professor": "Prof. Daniel Harris",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Prof. Harris's lectures are informative, but he tends to go off on tangents."
+      },
+      {
+        "professor": "Dr. Sarah Lewis",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Lewis is an excellent teacher, her coding examples are always practical and relevant."
+      },
+      {
+        "professor": "Prof. Andrew Clark",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Prof. Clark's classes are very interactive and he encourages hands-on learning."
+      },
+      {
+        "professor": "Dr. Megan Walker",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Dr. Walker's lectures are very engaging, but sometimes the reading load is overwhelming."
+      },
+      {
+        "professor": "Prof. Brian Moore",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "Prof. Moore's classes are difficult to follow, and his explanations often lack clarity."
+      },
+      {
+        "professor": "Dr. Laura King",
+        "subject": "Nursing",
+        "stars": 5,
+        "review": "Dr. King is incredibly supportive and her clinical examples are very helpful."
+      },
+      {
+        "professor": "Prof. William Allen",
+        "subject": "Music Theory",
+        "stars": 4,
+        "review": "Prof. Allen's classes are well-structured and he explains complex theories clearly."
+      },
+      {
+        "professor": "Dr. Sophia Evans",
+        "subject": "Business Management",
+        "stars": 5,
+        "review": "Dr. Evans brings real-world experience into the classroom, making her lessons very practical."
+      },
+      {
+        "professor": "Prof. Thomas Scott",
+        "subject": "Engineering",
+        "stars": 3,
+        "review": "Prof. Scott's classes are challenging, but he is always available for extra help."
+      }
+    ]
+  }
+  
